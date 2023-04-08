@@ -1,0 +1,175 @@
+2023-03-15 16:39:26,917 : INFO : test_abc : None
+2023-03-15 16:45:39,099 : INFO : test_abc : None
+2023-03-15 16:46:57,784 : INFO : test_abc : None
+2023-03-16 12:34:50,718 : INFO : test_abc : None
+2023-03-16 14:57:38,179 : INFO : test_abc : None
+2023-03-16 14:59:43,599 : INFO : test_abc : None
+2023-03-16 15:01:04,845 : INFO : test_abc : None
+2023-03-16 15:01:30,639 : INFO : test_abc : None
+2023-03-16 15:02:57,319 : INFO : test_abc : None
+2023-03-16 15:03:24,841 : INFO : test_abc : None
+2023-03-16 15:17:58,793 : INFO : test_abc : Logging into page
+2023-03-16 15:17:59,558 : INFO : test_abc : Taking screenshot
+2023-03-16 15:27:35,537 : INFO : test_abc : Logging into page
+2023-03-16 15:28:18,237 : INFO : test_abc : Logging into page
+2023-03-16 15:28:18,959 : INFO : test_abc : Taking screenshot
+2023-03-16 15:28:24,804 : INFO : test_abc : Testing log-out
+2023-03-16 15:28:44,814 : INFO : test_abc : Logging into page
+2023-03-16 15:28:45,349 : INFO : test_abc : Taking screenshot
+2023-03-16 15:28:51,174 : INFO : test_abc : Testing log-out
+2023-03-16 16:24:09,334 : INFO : test_abc : Logging into page
+2023-03-16 16:26:21,778 : INFO : test_abc : Logging into page
+2023-03-16 16:57:04,800 : INFO : test_abc : Logging into page
+2023-03-16 16:57:05,404 : INFO : test_abc : Sort products and select them
+2023-03-16 16:57:05,827 : INFO : test_abc : Remove product
+2023-03-16 17:24:05,507 : INFO : test_abc : Logging into page
+2023-03-16 17:24:06,010 : INFO : test_abc : Sort products and select them
+2023-03-16 17:24:06,465 : INFO : test_abc : Remove product
+2023-03-16 17:24:50,658 : INFO : test_abc : Logging into page
+2023-03-16 17:24:51,089 : INFO : test_abc : Sort products and select them
+2023-03-16 17:24:51,380 : INFO : test_abc : Remove product
+2023-03-16 17:35:53,651 : INFO : test_abc : Logging into page
+2023-03-16 17:35:54,169 : INFO : test_abc : Sort products and select them
+2023-03-16 17:35:54,483 : INFO : test_abc : Remove product
+2023-03-16 17:36:22,173 : INFO : test_abc : Logging into page
+2023-03-16 17:36:22,628 : INFO : test_abc : Sort products and select them
+2023-03-16 17:36:22,931 : INFO : test_abc : Remove product
+2023-03-16 17:40:09,301 : INFO : test_abc : Logging into page
+2023-03-16 17:40:09,733 : INFO : test_abc : Sort products and select them
+2023-03-16 17:40:10,030 : INFO : test_abc : Remove product
+2023-03-16 23:41:41,820 : INFO : test_abc : Logging into page
+2023-03-16 23:41:42,275 : INFO : test_abc : Sort products and select them
+2023-03-16 23:41:42,603 : INFO : test_abc : Remove product
+2023-03-16 23:47:52,427 : INFO : test_abc : Logging into page
+2023-03-16 23:47:52,869 : INFO : test_abc : Sort products and select them
+2023-03-16 23:47:53,158 : INFO : test_abc : Remove product
+2023-03-16 23:48:30,607 : INFO : test_abc : Logging into page
+2023-03-16 23:48:31,034 : INFO : test_abc : Sort products and select them
+2023-03-16 23:48:31,344 : INFO : test_abc : Remove product
+2023-03-16 23:49:25,168 : INFO : test_abc : Logging into page
+2023-03-16 23:49:25,559 : INFO : test_abc : Sort products and select them
+2023-03-16 23:49:25,853 : INFO : test_abc : Remove product
+2023-03-16 23:50:06,551 : INFO : test_abc : Logging into page
+2023-03-16 23:50:06,958 : INFO : test_abc : Sort products and select them
+2023-03-16 23:50:07,253 : INFO : test_abc : Remove product
+2023-03-16 23:51:54,858 : INFO : test_abc : Logging into page
+2023-03-16 23:51:55,270 : INFO : test_abc : Sort products and select them
+2023-03-16 23:51:55,586 : INFO : test_abc : Remove product
+2023-03-16 23:53:37,992 : INFO : test_abc : Logging into page
+2023-03-16 23:53:38,379 : INFO : test_abc : Sort products and select them
+2023-03-16 23:53:38,682 : INFO : test_abc : Remove product
+2023-03-16 23:54:10,287 : INFO : test_abc : Logging into page
+2023-03-16 23:54:10,703 : INFO : test_abc : Sort products and select them
+2023-03-16 23:54:10,992 : INFO : test_abc : Remove product
+2023-03-16 23:54:35,548 : INFO : test_abc : Logging into page
+2023-03-16 23:54:35,954 : INFO : test_abc : Sort products and select them
+2023-03-16 23:54:36,256 : INFO : test_abc : Remove product
+2023-03-16 23:56:55,014 : INFO : test_abc : Logging into page
+2023-03-16 23:56:55,422 : INFO : test_abc : Sort products and select them
+2023-03-16 23:56:55,727 : INFO : test_abc : Remove product
+2023-03-16 23:56:59,242 : INFO : test_abc : False
+2023-03-16 23:57:46,394 : INFO : test_abc : Logging into page
+2023-03-16 23:57:46,777 : INFO : test_abc : Sort products and select them
+2023-03-16 23:57:47,072 : INFO : test_abc : Remove product
+2023-03-16 23:57:50,576 : INFO : test_abc : True
+2023-03-17 00:12:59,190 : INFO : test_abc : Logging into page
+2023-03-17 00:12:59,602 : INFO : test_abc : Sort products and select them
+2023-03-17 00:12:59,906 : INFO : test_abc : Remove product
+2023-03-17 00:13:03,421 : INFO : test_abc : Price and tax: True
+2023-03-17 00:13:03,482 : INFO : test_abc : Complete message: False
+2023-03-17 00:13:37,238 : INFO : test_abc : Logging into page
+2023-03-17 00:13:37,641 : INFO : test_abc : Sort products and select them
+2023-03-17 00:13:37,944 : INFO : test_abc : Remove product
+2023-03-17 00:13:41,462 : INFO : test_abc : Price and tax: True
+2023-03-17 00:13:41,536 : INFO : test_abc : Complete message: True
+2023-03-17 00:21:42,674 : INFO : test1 : Logging into page
+2023-03-17 00:21:43,210 : INFO : test1 : Taking screenshot
+2023-03-17 00:21:49,081 : INFO : test1 : Testing log-out
+2023-03-17 00:22:19,924 : INFO : test1 : Logging into page
+2023-03-17 00:22:20,471 : INFO : test1 : Taking screenshot
+2023-03-17 00:22:26,307 : INFO : test1 : Testing log-out
+2023-03-17 00:22:26,486 : INFO : test1 : Swag Labs
+2023-03-17 00:23:22,486 : INFO : test_abc : Logging into page
+2023-03-17 00:23:22,933 : INFO : test_abc : Sort products and select them
+2023-03-17 00:23:23,230 : INFO : test_abc : Remove product
+2023-03-17 00:23:26,741 : INFO : test_abc : Price and tax: True
+2023-03-17 00:23:26,814 : INFO : test_abc : Complete message: True
+2023-03-17 00:50:41,771 : INFO : test1 : Logging into page
+2023-03-17 00:52:41,697 : INFO : test1 : Logging into page
+2023-03-17 00:52:48,555 : INFO : test1 : Logging into page
+2023-03-17 00:52:48,555 : INFO : test1 : Logging into page
+2023-03-17 00:52:51,643 : INFO : test1 : Logging into page
+2023-03-17 00:52:51,643 : INFO : test1 : Logging into page
+2023-03-17 00:52:51,643 : INFO : test1 : Logging into page
+2023-03-17 00:57:03,219 : INFO : test_addresses : Logging into page
+2023-03-17 00:57:07,064 : INFO : test_addresses : Logging into page
+2023-03-17 00:57:07,064 : INFO : test_addresses : Logging into page
+2023-03-17 00:57:10,131 : INFO : test_addresses : Logging into page
+2023-03-17 00:57:10,131 : INFO : test_addresses : Logging into page
+2023-03-17 00:57:10,131 : INFO : test_addresses : Logging into page
+2023-03-17 01:05:12,909 : INFO : test_addresses : Logging into page
+2023-03-17 01:05:16,768 : INFO : test_addresses : Logging into page
+2023-03-17 01:05:16,768 : INFO : test_addresses : Logging into page
+2023-03-17 01:05:19,869 : INFO : test_addresses : Logging into page
+2023-03-17 01:05:19,869 : INFO : test_addresses : Logging into page
+2023-03-17 01:05:19,869 : INFO : test_addresses : Logging into page
+2023-03-17 01:06:35,925 : INFO : test_addresses : Logging into page
+2023-03-17 01:06:39,791 : INFO : test_addresses : Logging into page
+2023-03-17 01:06:39,791 : INFO : test_addresses : Logging into page
+2023-03-17 01:06:42,882 : INFO : test_addresses : Logging into page
+2023-03-17 01:06:42,882 : INFO : test_addresses : Logging into page
+2023-03-17 01:06:42,882 : INFO : test_addresses : Logging into page
+2023-03-17 01:07:43,720 : INFO : test_addresses : Logging into page
+2023-03-17 01:07:45,806 : INFO : test_addresses : Logging into page
+2023-03-17 01:07:45,806 : INFO : test_addresses : Logging into page
+2023-03-17 01:07:48,904 : INFO : test_addresses : Logging into page
+2023-03-17 01:07:48,904 : INFO : test_addresses : Logging into page
+2023-03-17 01:07:48,904 : INFO : test_addresses : Logging into page
+2023-03-17 01:15:15,426 : INFO : test_addresses : Logging into page
+2023-03-17 01:15:18,288 : INFO : test_addresses : Logging into page
+2023-03-17 01:15:18,288 : INFO : test_addresses : Logging into page
+2023-03-17 01:15:22,403 : INFO : test_addresses : Logging into page
+2023-03-17 01:15:22,403 : INFO : test_addresses : Logging into page
+2023-03-17 01:15:22,403 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:21,564 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:21,594 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:21,594 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:21,620 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:21,620 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:21,620 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:53,500 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:53,528 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:53,528 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:53,550 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:53,550 : INFO : test_addresses : Logging into page
+2023-03-17 01:18:53,550 : INFO : test_addresses : Logging into page
+2023-03-17 01:19:35,885 : INFO : test_addresses : Logging into page
+2023-03-17 01:19:38,950 : INFO : test_addresses : Logging into page
+2023-03-17 01:19:38,950 : INFO : test_addresses : Logging into page
+2023-03-17 01:19:42,056 : INFO : test_addresses : Logging into page
+2023-03-17 01:19:42,056 : INFO : test_addresses : Logging into page
+2023-03-17 01:19:42,056 : INFO : test_addresses : Logging into page
+2023-03-17 10:59:00,808 : INFO : test_addresses : Logging into page
+2023-03-17 10:59:03,611 : INFO : test_addresses : Logging into page
+2023-03-17 10:59:03,611 : INFO : test_addresses : Logging into page
+2023-03-17 10:59:06,692 : INFO : test_addresses : Logging into page
+2023-03-17 10:59:06,692 : INFO : test_addresses : Logging into page
+2023-03-17 10:59:06,692 : INFO : test_addresses : Logging into page
+2023-03-17 11:04:29,248 : INFO : test_addresses : Logging into page
+2023-03-17 11:04:36,058 : INFO : test_addresses : Logging into page
+2023-03-17 11:04:36,058 : INFO : test_addresses : Logging into page
+2023-03-17 11:04:42,981 : INFO : test_addresses : Logging into page
+2023-03-17 11:04:42,981 : INFO : test_addresses : Logging into page
+2023-03-17 11:04:42,981 : INFO : test_addresses : Logging into page
+2023-03-17 11:05:05,213 : INFO : test_addresses : Logging into page
+2023-03-17 11:05:12,096 : INFO : test_addresses : Logging into page
+2023-03-17 11:05:12,096 : INFO : test_addresses : Logging into page
+2023-03-17 11:05:18,890 : INFO : test_addresses : Logging into page
+2023-03-17 11:05:18,890 : INFO : test_addresses : Logging into page
+2023-03-17 11:05:18,890 : INFO : test_addresses : Logging into page
+2023-03-17 11:07:12,292 : INFO : test_addresses : Logging into page
+2023-03-17 11:07:19,067 : INFO : test_addresses : Logging into page
+2023-03-17 11:07:19,067 : INFO : test_addresses : Logging into page
+2023-03-17 11:07:25,767 : INFO : test_addresses : Logging into page
+2023-03-17 11:07:25,767 : INFO : test_addresses : Logging into page
+2023-03-17 11:07:25,767 : INFO : test_addresses : Logging into page
