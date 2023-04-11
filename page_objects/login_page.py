@@ -4,6 +4,7 @@ from page_objects.inventory_page import InventoryPage
 
 
 class LoginPage:
+    """test commit name change"""
 
     def __init__(self, driver):
         self.driver = driver
